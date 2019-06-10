@@ -1,7 +1,7 @@
 <template>
-    <div>
-        input
-    </div>
+  <div>
+    input!
+  </div>
 </template>
 
 <script>
